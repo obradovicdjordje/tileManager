@@ -1,4 +1,4 @@
-# Simple Tile Manager - X win
+# Simple Tile Manager for X11
 
 
 ## Requirements
